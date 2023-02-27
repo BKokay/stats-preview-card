@@ -1,0 +1,14 @@
+.containter {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    background-color: aquamarine;
+}
+
+.align-left {
+   
+}
+
+.align-right {
+
+}
